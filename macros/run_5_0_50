@@ -1,0 +1,14 @@
+#!/bin/sh 
+echo `hostname` 
+SCRAM_ARCH=slc6_amd64_gcc472 
+source /apps/osg/cmssoft/cmsset_default.sh 
+export X509_USER_PROXY=/home/sun229/.myproxy  
+DIR="/DmesonAna/sl6ana/CMSSW_5_3_20/src/UserCode/OpenHF/macros" 
+cd /home/sun229//DmesonAna/sl6ana/CMSSW_5_3_20 
+eval `scramv1 runtime -sh` 
+cd /home/sun229//$DIR 
+root -b<<EOF
+gSystem->Load("../../../../lib/slc6_amd64_gcc472/libUserCodeOpenHF.so"); 
+.x read_hftree.C++(0, 50, "dpm_pPb_HFseqchanged.lis", 5, 1.7, 2.05, 0.5, 2.05, 0.5, 2.05, 2.0, 0.2, 0.05, 0.25, 3) 
+.q 
+EOF

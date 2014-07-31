@@ -1,0 +1,423 @@
+hep.rcac.purdue.edu
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.32/00   2 December 2011   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.32/00 (branches/v5-32-00-patches@42372, Jun 10 2014, 18:26:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+Info in <TUnixSystem::ACLiC>: creating shared library /home/sun229/DmesonAna/sl6ana/CMSSW_5_3_20/src/UserCode/OpenHF/gensignal_gentree/./run_gensignalget_C.so
+In file included from /home/sun229/DmesonAna/sl6ana/CMSSW_5_3_20/src/UserCode/OpenHF/gensignal_gentree/./run_gensignalget.C:1:0,
+                 from /home/sun229/DmesonAna/sl6ana/CMSSW_5_3_20/src/UserCode/OpenHF/gensignal_gentree/run_gensignalget_C_ACLiC_dict.h:34,
+                 from /home/sun229/DmesonAna/sl6ana/CMSSW_5_3_20/src/UserCode/OpenHF/gensignal_gentree/run_gensignalget_C_ACLiC_dict.cxx:17:
+/home/sun229/DmesonAna/sl6ana/CMSSW_5_3_20/src/UserCode/OpenHF/gensignal_gentree/./gensignalget.cc:107:6: warning: unused parameter 'decaychannel' [-Wunused-parameter]
+file  = 1 name = /home/sun229/store/cjetsample_hisignalgendmeson_alld_genana_bugfixed_0730/HiForest_12_1_P8m.root
+Warning in <TClass::TClass>: no dictionary for class dmeson is available
+Warning in <TClass::TClass>: no dictionary for class daughterparticle is available
+Warning in <TClass::TClass>: no dictionary for class motherquark is available
+Warning in <TClass::TClass>: no dictionary for class middleparticle is available
+dcharged pt : 2.12462
+13   -14    313
+dcharged pt : 1.68723
+321   -213    -211
+dcharged pt : 1.32132
+13   -14    311
+dcharged pt : 9.37356
+11   -12    313
+dcharged pt : 76.0332
+-313   211    113
+dcharged pt : 11.93
+-11   12    -311
+dcharged pt : 1.61438
+11   -12    311
+dcharged pt : 12.8307
+-321   213    211
+dcharged pt : 1.16391
+-11   12    -313
+dcharged pt : 1.92513
+13   -14    313
+dcharged pt : 22.731
+-11   12    -313
+dcharged pt : 24.3635
+311   -321    311
+dcharged pt : 38.0769
+13   -14    311
+dcharged pt : 7.959
+-321   321    211
+dcharged pt : 30.3312
+-311   321    -311
+dcharged pt : 3.67779
+-311   211    111
+dcharged pt : 8.26913
+-13   14    -313
+dcharged pt : 1.99167
+-13   14    -313
+dcharged pt : 7.1908
+311   -211    111
+dcharged pt : 6.43978
+11   -12    311
+dcharged pt : 68.5303
+333   211    111
+dcharged pt : 2.91513
+311   -211    111
+dcharged pt : 90.1191
+-11   12    -311
+dcharged pt : 0.515569
+-13   14    -311
+dcharged pt : 3.79811
+11   -12    313
+dcharged pt : 1.51067
+-13   14    -313
+dcharged pt : 12.2667
+-13   14    -313
+dcharged pt : 2.57738
+-321   211    211
+dcharged pt : 3.17133
+333   211    111
+dcharged pt : 8.30663
+-11   12    -311
+dcharged pt : 11.7893
+13   -14    313
+dcharged pt : 0.749616
+11   -12    311
+dcharged pt : 1.33086
+-13   14    -311
+dcharged pt : 45.9304
+13   -14    331
+dcharged pt : 2.5393
+-321   211    211
+dcharged pt : 3.30193
+321   -211    -211
+dcharged pt : 12.2839
+-311   211    111
+dcharged pt : 1.38973
+-11   12    -313
+dcharged pt : 2.67699
+11   -12    311
+dcharged pt : 7.72555
+-11   12    -311
+dcharged pt : 1.46074
+321   -211    -211
+dcharged pt : 1.49016
+-11   12    -311
+dcharged pt : 48.1157
+11   -12    313
+dcharged pt : 11.9358
+11   -12    311
+dcharged pt : 1.18684
+13   -14    311
+dcharged pt : 2.31258
+-13   14    -313
+dcharged pt : 3.66668
+-13   14    -311
+dcharged pt : 3.10719
+11   -12    313
+dcharged pt : 3.13975
+11   -12    313
+dcharged pt : 4.64686
+-321   213    211
+dcharged pt : 4.1643
+333   -211    111
+dcharged pt : 55.6548
+-321   211    211
+dcharged pt : 2.79107
+-11   12    -311
+dcharged pt : 6.01613
+13   -14    313
+dcharged pt : 4.30904
+311   -321    311
+dcharged pt : 1.90838
+-13   14    -313
+dcharged pt : 47.767
+-311   321    -311
+dcharged pt : 2.36583
+321   -213    -211
+dcharged pt : 0.798444
+-11   12    -313
+dcharged pt : 3.68889
+13   -14    313
+dcharged pt : 1.59773
+11   -12    313
+dcharged pt : 10.4774
+-13   14    -311
+dcharged pt : 1.54519
+321   -211    -211
+dcharged pt : 1.56714
+-11   12    -311
+dcharged pt : 2.97313
+311   -321    311
+dcharged pt : 3.62702
+-13   14    -313
+dcharged pt : 1.42687
+11   -12    311
+dcharged pt : 2.8449
+-11   12    -311
+dcharged pt : 1.89072
+13   -14    311
+dcharged pt : 4.14616
+11   -12    311
+dcharged pt : 0.540745
+-321   211    211
+dcharged pt : 0.769534
+-13   14    -311
+dcharged pt : 28.8315
+321   -211    -211
+dcharged pt : 5.04741
+-13   14    -313
+dcharged pt : 1.85415
+13   -14    311
+dcharged pt : 1.60827
+13   -14    311
+dcharged pt : 1.90737
+-11   12    -313
+dcharged pt : 1.90689
+-11   12    -311
+dcharged pt : 0.15656
+333   211    111
+dcharged pt : 1.61368
+311   -211    111
+dcharged pt : 1.59879
+11   -12    313
+dcharged pt : 4.35346
+11   -12    311
+dcharged pt : 0.863085
+-11   12    -313
+dcharged pt : 5.30008
+13   -14    313
+dcharged pt : 1.10895
+321   -211    -211
+dcharged pt : 3.29177
+-13   14    -311
+dcharged pt : 3.66048
+13   -14    313
+dcharged pt : 2.28302
+-13   14    -313
+dcharged pt : 14.4498
+11   -12    313
+dcharged pt : 0.888349
+321   -211    -211
+dcharged pt : 13.2811
+311   -321    311
+dcharged pt : 5.34306
+13   -14    313
+dcharged pt : 0.625825
+-13   14    -313
+dcharged pt : 7.52527
+-311   321    -311
+dcharged pt : 62.871
+321   -211    -211
+dcharged pt : 3.31404
+-13   14    -311
+dcharged pt : 3.80985
+-11   12    -313
+dcharged pt : 1.97197
+-11   12    -311
+dcharged pt : 1.05459
+11   -12    311
+dcharged pt : 1.01965
+-11   12    -311
+dcharged pt : 1.60078
+13   -14    313
+dcharged pt : 1.61701
+-321   211    211
+dcharged pt : 0.822165
+-13   14    -313
+dcharged pt : 3.8722
+311   -321    311
+dcharged pt : 0.752001
+-13   14    -313
+dcharged pt : 34.0034
+11   -12    313
+dcharged pt : 0.638045
+-11   12    -313
+dcharged pt : 3.24571
+-13   14    -311
+dcharged pt : 2.94898
+321   -211    -211
+dcharged pt : 1.08187
+11   -12    311
+dcharged pt : 2.05229
+11   -12    313
+dcharged pt : 2.7203
+313   -211    113
+dcharged pt : 4.1676
+321   -211    -211
+dcharged pt : 1.45779
+-311   321    -311
+dcharged pt : 2.14119
+11   -12    313
+dcharged pt : 4.1757
+-11   12    -311
+dcharged pt : 5.38373
+-13   14    -311
+dcharged pt : 11.4024
+-321   211    211
+dcharged pt : 15.6341
+11   -12    311
+dcharged pt : 3.4768
+-13   14    -313
+dcharged pt : 4.74017
+13   -14    221
+dcharged pt : 30.4127
+13   -14    313
+dcharged pt : 6.60051
+321   -211    -211
+dcharged pt : 0.946149
+333   211    111
+dcharged pt : 4.70934
+11   -12    313
+dcharged pt : 1.77722
+-13   14    -311
+dcharged pt : 0.375285
+333   -211    111
+dcharged pt : 2.70898
+13   -14    313
+dcharged pt : 1.34664
+11   -12    311
+dcharged pt : 1.5996
+13   -14    313
+dcharged pt : 1.7672
+-13   14    -313
+dcharged pt : 0.907054
+-11   12    -313
+dcharged pt : 11.713
+13   -14    313
+dcharged pt : 8.98682
+-13   14    223
+dcharged pt : 1.56305
+-321   211    211
+dcharged pt : 3.36759
+311   -321    311
+dcharged pt : 58.2017
+-11   12    -311
+dcharged pt : 2.35568
+11   -12    311
+dcharged pt : 1.8364
+11   -12    311
+dcharged pt : 58.7435
+333   -211    111
+dcharged pt : 12.2229
+11   -12    311
+dcharged pt : 1.78874
+13   -14    311
+dcharged pt : 4.53876
+11   -12    311
+dcharged pt : 0.65733
+-321   321    211
+dcharged pt : 12.0199
+-321   211    211
+dcharged pt : 45.5698
+-211   -211    211
+dcharged pt : 15.9353
+-11   12    223
+dcharged pt : 2.08765
+-11   12    -313
+dcharged pt : 3.12437
+-321   211    211
+dcharged pt : 2.9796
+-13   14    -311
+dcharged pt : 41.3904
+-11   12    -311
+dcharged pt : 1.93796
+-13   14    -313
+dcharged pt : 4.67645
+-11   12    -311
+dcharged pt : 4.23571
+11   -12    311
+dcharged pt : 11.1164
+-11   12    -313
+dcharged pt : 1.50627
+-11   12    -311
+dcharged pt : 1.46463
+-11   12    -311
+dcharged pt : 4.94633
+11   -12    311
+dcharged pt : 3.2154
+-13   14    331
+dcharged pt : 1.7911
+-211   -211    211
+dcharged pt : 16.7281
+11   -12    311
+dcharged pt : 3.91179
+-13   14    -313
+dcharged pt : 30.6949
+13   -14    311
+dcharged pt : 5.30089
+11   -12    313
+dcharged pt : 2.24991
+-11   12    -313
+dcharged pt : 5.40103
+11   -12    311
+dcharged pt : 1.4393
+-311   211    111
+dcharged pt : 7.0062
+13   -14    311
+dcharged pt : 0.778396
+-11   12    111
+dcharged pt : 31.4078
+13   -14    311
+dcharged pt : 12.3107
+-321   211    211
+dcharged pt : 1.82589
+11   -12    311
+dcharged pt : 1.22031
+-13   14    -311
+dcharged pt : 1.45436
+-11   12    -311
+dcharged pt : 1.44379
+-321   211    211
+dcharged pt : 2.3336
+321   -211    -211
+dcharged pt : 0.538607
+13   -14    311
+dcharged pt : 18.9377
+-11   12    -311
+dcharged pt : 9.22841
+11   -12    313
+dcharged pt : 6.87392
+-13   14    -313
+dcharged pt : 51.2246
+13   -14    311
+dcharged pt : 0.359167
+-11   12    -311
+dcharged pt : 3.67068
+-11   12    -311
+dcharged pt : 13.7913
+321   -211    -211
+dcharged pt : 0.413402
+11   -12    313
+dcharged pt : 29.6043
+311   -211    111
+dcharged pt : 16.4368
+-321   211    211
+dcharged pt : 14.4009
+-11   12    -311
+dcharged pt : 3.39272
+-311   321    -311
+dcharged pt : 0.871214
+-321   211    211
+dcharged pt : 1.79876
+-13   14    -313
+dcharged pt : 1.23874
+311   -321    311
+dcharged pt : 2.01132
+-11   12    -311
+dcharged pt : 14.3967
+-13   14    -311
+dcharged pt : 63.8744
+-321   211    211
+dcharged pt : 3.47365
+13   -14    313
+dcharged pt : 9.3711
+321   -211    -211
+dcharged pt : 47.301
+-11   12    -311
