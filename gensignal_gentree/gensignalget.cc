@@ -140,13 +140,13 @@ void gensignalget::LoopOverFile(int startFile, int endFile, char *filelist, int 
 
 		Read_tracktree( GenParticleTree );
 
-		Find_d0(GenParticleTree);
+//		Find_d0(GenParticleTree);
         
         Find_dcharged(GenParticleTree);
 
-        Find_dstar(GenParticleTree);
+//        Find_dstar(GenParticleTree);
 
-		Find_dsphi(GenParticleTree);
+//		Find_dsphi(GenParticleTree);
 
         f->Close();
     }
